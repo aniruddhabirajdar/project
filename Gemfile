@@ -8,7 +8,8 @@ gem 'bootstrap-sass'
 gem 'sqlite3'
 gem 'execjs'
 gem 'therubyracer'
-
+gem 'rspec-rails', '2.11.0'
+gem 'mysql2'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
